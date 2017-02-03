@@ -1,0 +1,5 @@
+main: ch.echo35.spigot.echoRPG.Main
+name: EchoRPG
+version: 1.0 BETA 5
+authors: [Espii]
+description: Echo's RPG system
