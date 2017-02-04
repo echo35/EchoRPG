@@ -20,12 +20,12 @@ here.
 current circle recipes. Storage Circles are not yet completed.
 
 [2] see [GeomancyMethods.java#L47](https://github.com/echo35/EchoRPG/blob/master/src/ch/echo35/spigot/echoRPG/utils/GeomancyMethods.java#L47) for list of "recipes"
-	- Can create items from items
-	- Can create custom items (use metadata)
-	- Can transmute LivingEntities (with or without souls)
-		- A soul-less entity will be mute, unable to move, or react to other entities or the environment
+- Can create items from items
+- Can create custom items (use metadata)
+- Can transmute LivingEntities (with or without souls)
+	- A soul-less entity will be mute, unable to move, or react to other entities or the environment
 
 ####TODO
-	[ ] - Come up with a simpler spell-casting method
-	[ ] - Redo transmutation circle detection
-	[ ] - Create multiverse world for Storage circles (space-time magic concept)
+- [ ] Come up with a simpler spell-casting method
+- [ ] Redo transmutation circle detection
+- [ ] Create multiverse world for Storage circles (space-time magic concept)
